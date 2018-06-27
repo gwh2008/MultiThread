@@ -47,4 +47,6 @@ https://github.com/gaowenhui/MultiThread
 
 ![工程结构](https://github.com/gaowenhui/MultiThread/blob/master/pic/main20180627145854.png)
 
+![工程结构](https://github.com/gaowenhui/SpringBoot-Shiro-Vue-master-20180625/blob/master/pic/BF78F42E-BD02-4951-ACE7-36CC1B537904.png)
+
 ![工程结构](http://ots7yt7am.bkt.clouddn.com/blog/role_permission.png)
