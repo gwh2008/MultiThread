@@ -44,4 +44,7 @@ https://github.com/gaowenhui/MultiThread
 可以加作者QQ（286899139），微信 gwh_2015 继续总结完善
 
 ## 附工程结构图一张
+
+![工程结构](https://github.com/gaowenhui/MultiThread/blob/master/pic/main20180627145854.png)
+
 ![工程结构](http://ots7yt7am.bkt.clouddn.com/blog/role_permission.png)
