@@ -2,7 +2,7 @@ package com.gaowh.Singleton;
 
 /**
  * 双重校验锁：
- * @author gwh
+ * @author
  *
  */
 public class Singleton4 {

@@ -10,7 +10,7 @@ package com.gaowh.Singleton;
  * ，从而实例化instance。想象一下，如果实例化instance很消耗资源，我想让他延迟加载，另外一方面，我不希望在Singleton类加载时就实例化
  * ，因为我不能确保Singleton类还可能在其他的地方被主动使用从而被加载
  * ，那么这个时候实例化instance显然是不合适的。这个时候，这种方式相比第三和第四种方式就显得很合理。
- * @author gwh
+ * @author
  * 
  */
 
